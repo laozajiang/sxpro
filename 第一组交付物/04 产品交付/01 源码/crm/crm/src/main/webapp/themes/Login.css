@@ -1,0 +1,88 @@
+body {
+	background-color: #ffffff;
+	position: relative;
+}
+
+.navbar-header {
+	float: none;
+	text-align: center;
+	width: 100%;
+	font-size: 24px;
+	padding-top: 10px;
+}
+
+}
+.login-box {
+	width: 400px;
+	height:300px;
+}
+
+.a {
+	width: 480px;
+	height:250px;
+	position: absolute;
+	left: 0;
+	top: 150px;
+	right: 0;
+	left: 0;
+	margin: auto;
+	background-color: rgb(1, 2, 3, 0.1);
+}
+.c{
+	margin-left:90px;
+	margin-top:15px
+}
+
+.username {
+	margin-left: 5px;
+	float: left;
+}
+
+.password {
+	margin-left: 5px;
+	float: left;
+}
+
+.box {
+	margin-left: 10px;
+	float: left;
+}
+
+.rememberPwd {
+	margin-left: 8px;
+	font-size: 8px;
+	float: left;
+}
+
+.buttonLayout {
+	margin-top: 20px;
+	margin-left: 10px;
+	width: 300px;
+	height: 25px;
+}
+
+.button {
+	background-color: #0080c0; /* Green */
+	border: none;
+	color: white;
+	padding: 8px 56px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 5px;
+	margin: 4px 2px;
+	-webkit-transition-duration: 0.4s; /* Safari */
+	transition-duration: 0.4s;
+	cursor: pointer;
+	border-radius: 8px;
+}
+
+.button1:hover {
+	background-color: #ff8000;
+	color: white;
+}
+
+.button2:hover {
+	background-color: #ff8000;
+	color: white;
+}
